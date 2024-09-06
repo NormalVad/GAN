@@ -1,1 +1,3 @@
-# Stylegan_assn3_ell793
+# GAN Assignment
+
+Assignment for ELL-793 - Computer Vision Course @ IITD
